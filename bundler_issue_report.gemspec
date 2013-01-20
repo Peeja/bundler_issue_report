@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "bundler_issue_report"
   gem.require_paths = ["lib"]
   gem.version       = BundlerIssueReport::VERSION
+
+  gem.add_development_dependency "rake"
 end
