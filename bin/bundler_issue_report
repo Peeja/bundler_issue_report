@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'bundler_issue_report'
+
+BundlerIssueReport.write_report
