@@ -1,3 +1,5 @@
+***This gem is deprecated. Please use `bundle env` instead.***
+
 # BundlerIssueReport
 
 The Bundler team asks that users report [certain information][ISSUES.md] when
