@@ -1,4 +1,6 @@
-***This gem is deprecated. Please use `bundle env` instead.***
+***This gem is deprecated. Please use [`bundle env`][bundle-env] instead.***
+
+[bundle-env]: https://github.com/carlhuda/bundler/commit/ebd9315339dc6ff0b101c70137f2cd622f880b08
 
 # BundlerIssueReport
 
