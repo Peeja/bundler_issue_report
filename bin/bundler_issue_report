@@ -2,6 +2,6 @@
 
 require 'bundler_issue_report'
 
-warn '***This gem is deprecated. Please use `bundle env` instead.***'
+warn '*** This gem is deprecated. Please use `bundle env` instead, if your version of Bundler supports it. ***'
 
 BundlerIssueReport.write_report
